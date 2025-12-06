@@ -27,7 +27,7 @@ For example, you can find a step-by-step [tutorial in the VSC documentation](htt
 
 ## Tutorials
 To get started with Python, it is recommended to go through at least one of the following options, for what is needed in this module.
-- Chapters 0 - 7 in [Dive into Python 3](https://diveintopython3.problemsolving.io/)
+- Chapters 0 - 7 in [Dive into Python 3](https://diveintopython3.net/)
 
 - Sections 1 - 10 in [Documentation on the python.org](https://docs.python.org/3/tutorial/)
 
